@@ -1,6 +1,6 @@
 ### Ola tudo bem 
 
-Meu nome e Rebeca
+Meu nome é Rebeca
 - Estou estudando no Alura;
 - Estou me desenvovlndo na linguagem JavaScript
 - Utilizo esse espaço para minha organizaçao e compratilhamento dos meus projetos desenvolvidos
