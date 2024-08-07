@@ -9,5 +9,5 @@ Meu nome e Hector
 
   00001100097685sp@al.educacao.sp.gov.br
 
-  ![].(https://media.tenor.com/v08qJyeWr-UAAAAi/skater-skate.gif)
+  ![](https://media.tenor.com/v08qJyeWr-UAAAAi/skater-skate.gif)
 
